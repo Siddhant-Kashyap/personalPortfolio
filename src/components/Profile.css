@@ -1,0 +1,23 @@
+.pic{
+    text-align: center;
+    border: solid;
+    border-radius: 25px;
+    border-color: white;
+    border-width: 0.5px;
+    min-height: 150px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../assets/myphoto.jpeg");
+    background-size: 100% ,100%;
+   
+   
+}
+
+.naming{
+    text-align: center;
+   
+}
+.name{
+    color: rgb(255, 255, 255);
+}

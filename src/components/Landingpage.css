@@ -1,0 +1,52 @@
+.hero{
+    background-color: #1D1B1D;
+  
+    z-index: -200;
+    display: flex;
+    
+}
+.left{
+    width: 20vw;
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px;
+    
+}
+.right{
+    margin: 20px;
+   width: 80vw;
+    float: right;
+    display: flex;
+    
+}
+
+.subleft{
+    width: 80%;
+    float: left;
+    margin-top: 25px;
+    margin-left: 90px;
+    padding: 20px;
+    display: inline;
+    
+}
+.subright{
+    display: inline;
+    
+   width: 20%;
+    float: right;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.skillcontainer{
+    margin-top: 25rem;
+}
+.myservicescontainer{
+    margin-top: 10rem;
+}
+
+@media (max-width: 861px) {
+    .hero{
+      display: block; 
+    }
+}
