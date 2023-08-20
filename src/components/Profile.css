@@ -8,8 +8,11 @@
     width: 200px;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("../assets/myphoto.jpeg");
-    background-size: 100% ,100%;
+    background-image: url("../assets/PICTURE\ -\ Copy.jpg");
+    background-size: 120% ,100%;
+    background-repeat: no-repeat;
+
+    
    
    
 }
